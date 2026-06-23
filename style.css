@@ -66,12 +66,12 @@ h1 {
 
 @font-face {
     font-family: 'matcha cih';
-    src: url('font/matcha cih.ttf') format('truetype');
+    src: url('matcha cih.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'brown cookies';
-    src: url('font/Brown Cookies.otf') format('truetype');
+    src: url('Brown Cookies.otf') format('truetype');
 }
 
 .paragraph {
